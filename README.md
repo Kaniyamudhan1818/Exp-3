@@ -16,7 +16,8 @@ To design and draw UML diagrams for the Railway Management System
 
 # DIAGRAMS:
 # activity diagram
-<img width="1238" height="1017" alt="image" src="https://github.com/user-attachments/assets/e97cde33-ae3e-4b90-8f22-32ff40e66a1c" />
+<img width="1238" height="1003" alt="image" src="https://github.com/user-attachments/assets/d5603cbf-4d0d-4f40-97ce-7476e4f60620" />
+
 
 # class diagram
 <img width="1240" height="1012" alt="image" src="https://github.com/user-attachments/assets/fabebdad-c2ba-4db4-b56b-73fe05db079d" />
